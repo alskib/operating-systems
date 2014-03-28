@@ -1,0 +1,527 @@
+run:
+How many officers? 2
+How many shuttles? 10
+Officer Brycin has started.
+Officer Ace has started.
+Shuttle Atlantis is now operating.
+Shuttle Columbia is now operating.
+Starting mission 1 for shuttle Atlantis.
+Shuttle Challenger is now operating.
+Starting mission 1 for shuttle Columbia.
+Starting mission 1 for shuttle Challenger.
+Shuttle Endeavour is now operating.
+Starting mission 1 for shuttle Endeavour.
+Shuttle Enterprise is now operating.
+Starting mission 1 for shuttle Enterprise.
+Shuttle Constitution is now operating.
+Shuttle Constellation is now operating.
+Starting mission 1 for shuttle Constitution.
+Starting mission 1 for shuttle Constellation.
+Shuttle Defiant is now operating.
+Shuttle Excalibur is now operating.
+Starting mission 1 for shuttle Defiant.
+Shuttle Exeter is now operating.
+Manager has started.
+Starting mission 1 for shuttle Excalibur.
+Starting mission 1 for shuttle Exeter.
+Shuttle Constitution requires landing officer.
+Constitution is entering its critical landing section.
+[LANDING SEQ][Ace] Interacting with shuttle Constitution.
+[LANDING SEQ][Ace] Constitution is granted permission to land.
+Shuttle Defiant requires landing officer.
+Defiant is entering its critical landing section.
+[LANDING SEQ][Brycin] Interacting with shuttle Defiant.
+[LANDING SEQ][Brycin] Defiant is granted permission to land.
+Shuttle Constellation requires landing officer.
+[LANDING SEQ][Ace] Constitution call the ball!
+Shuttle Atlantis requires landing officer.
+[LANDING SEQ][Ace] Constitution permission is granted for final approach.
+[LANDING SEQ][Ace] Constitution has docked in 4 seconds.
+[LANDING SEQ][Ace] Constitution leaving its critical section.
+Mission 1 complete for shuttle Constitution.
+Constellation is entering its critical landing section.
+Starting mission 2 for shuttle Constitution.
+[LANDING SEQ][Ace] Interacting with shuttle Constellation.
+Shuttle Exeter requires landing officer.
+Shuttle Challenger requires landing officer.
+Shuttle Excalibur requires landing officer.
+Shuttle Endeavour requires landing officer.
+[LANDING SEQ][Brycin] Defiant call the ball!
+[LANDING SEQ][Brycin] Defiant permission is granted for final approach.
+Shuttle Constitution requires landing officer.
+Shuttle Enterprise requires landing officer.
+Shuttle Columbia requires landing officer.
+[LANDING SEQ][Ace] Constellation is granted permission to land.
+[LANDING SEQ][Brycin] Defiant has docked in 8 seconds.
+[LANDING SEQ][Brycin] Defiant leaving its critical section.
+Mission 1 complete for shuttle Defiant.
+Starting mission 2 for shuttle Defiant.
+Constitution is entering its critical landing section.
+[LANDING SEQ][Brycin] Interacting with shuttle Constitution.
+[LANDING SEQ][Brycin] Constitution is granted permission to land.
+[LANDING SEQ][Ace] Constellation call the ball!
+[LANDING SEQ][Ace] Constellation permission is granted for final approach.
+[LANDING SEQ][Brycin] Constitution call the ball!
+[LANDING SEQ][Brycin] Constitution permission is granted for final approach.
+Shuttle Defiant requires landing officer.
+[LANDING SEQ][Brycin] Constitution has docked in 9 seconds.
+[LANDING SEQ][Brycin] Constitution leaving its critical section.
+Defiant is entering its critical landing section.
+Mission 2 complete for shuttle Constitution.
+[LANDING SEQ][Brycin] Interacting with shuttle Defiant.
+Starting mission 3 for shuttle Constitution.
+[LANDING SEQ][Ace] Constellation has docked in 15 seconds.
+[LANDING SEQ][Ace] Constellation leaving its critical section.
+Mission 1 complete for shuttle Constellation.
+Starting mission 2 for shuttle Constellation.
+Columbia is entering its critical landing section.
+[LANDING SEQ][Ace] Interacting with shuttle Columbia.
+[LANDING SEQ][Ace] Columbia is granted permission to land.
+Shuttle Constellation requires landing officer.
+[LANDING SEQ][Ace] Columbia call the ball!
+[LANDING SEQ][Brycin] Defiant is granted permission to land.
+[LANDING SEQ][Ace] Columbia permission is granted for final approach.
+Shuttle Constitution requires landing officer.
+[LANDING SEQ][Brycin] Defiant call the ball!
+[LANDING SEQ][Brycin] Defiant permission is granted for final approach.
+[LANDING SEQ][Brycin] Defiant has docked in 13 seconds.
+[LANDING SEQ][Brycin] Defiant leaving its critical section.
+Constellation is entering its critical landing section.
+Mission 2 complete for shuttle Defiant.
+[LANDING SEQ][Brycin] Interacting with shuttle Constellation.
+Starting mission 3 for shuttle Defiant.
+Shuttle Defiant requires landing officer.
+[LANDING SEQ][Brycin] Constellation is granted permission to land.
+[LANDING SEQ][Ace] Columbia has docked in 16 seconds.
+[LANDING SEQ][Ace] Columbia leaving its critical section.
+Mission 1 complete for shuttle Columbia.
+Defiant is entering its critical landing section.
+Starting mission 2 for shuttle Columbia.
+[LANDING SEQ][Ace] Interacting with shuttle Defiant.
+[LANDING SEQ][Brycin] Constellation call the ball!
+[LANDING SEQ][Brycin] Constellation permission is granted for final approach.
+[LANDING SEQ][Ace] Defiant is granted permission to land.
+Shuttle Columbia requires landing officer.
+[LANDING SEQ][Ace] Defiant call the ball!
+[LANDING SEQ][Ace] Defiant permission is granted for final approach.
+[LANDING SEQ][Ace] Defiant has docked in 7 seconds.
+[LANDING SEQ][Ace] Defiant leaving its critical section.
+Mission 3 complete for shuttle Defiant.
+Columbia is entering its critical landing section.
+Starting mission 4 for shuttle Defiant.
+[LANDING SEQ][Ace] Interacting with shuttle Columbia.
+[LANDING SEQ][Brycin] Constellation has docked in 10 seconds.
+[LANDING SEQ][Brycin] Constellation leaving its critical section.
+Mission 2 complete for shuttle Constellation.
+Excalibur is entering its critical landing section.
+Starting mission 3 for shuttle Constellation.
+[LANDING SEQ][Brycin] Interacting with shuttle Excalibur.
+Shuttle Defiant requires landing officer.
+[LANDING SEQ][Brycin] Excalibur is granted permission to land.
+[LANDING SEQ][Ace] Columbia is granted permission to land.
+[LANDING SEQ][Brycin] Excalibur call the ball!
+[LANDING SEQ][Brycin] Excalibur permission is granted for final approach.
+[LANDING SEQ][Ace] Columbia call the ball!
+[LANDING SEQ][Ace] Columbia permission is granted for final approach.
+Shuttle Constellation requires landing officer.
+[LANDING SEQ][Ace] Columbia has docked in 16 seconds.
+[LANDING SEQ][Ace] Columbia leaving its critical section.
+Mission 2 complete for shuttle Columbia.
+Defiant is entering its critical landing section.
+Starting mission 3 for shuttle Columbia.
+[LANDING SEQ][Ace] Interacting with shuttle Defiant.
+[LANDING SEQ][Brycin] Excalibur has docked in 15 seconds.
+[LANDING SEQ][Brycin] Excalibur leaving its critical section.
+Mission 1 complete for shuttle Excalibur.
+Challenger is entering its critical landing section.
+Starting mission 2 for shuttle Excalibur.
+[LANDING SEQ][Brycin] Interacting with shuttle Challenger.
+[LANDING SEQ][Ace] Defiant is granted permission to land.
+Shuttle Columbia requires landing officer.
+[LANDING SEQ][Brycin] Challenger is granted permission to land.
+Shuttle Excalibur requires landing officer.
+[LANDING SEQ][Brycin] Challenger call the ball!
+[LANDING SEQ][Ace] Defiant call the ball!
+[LANDING SEQ][Ace] Defiant permission is granted for final approach.
+[LANDING SEQ][Brycin] Challenger permission is granted for final approach.
+[LANDING SEQ][Brycin] Challenger has docked in 11 seconds.
+[LANDING SEQ][Brycin] Challenger leaving its critical section.
+Excalibur is entering its critical landing section.
+Mission 1 complete for shuttle Challenger.
+[LANDING SEQ][Brycin] Interacting with shuttle Excalibur.
+Starting mission 2 for shuttle Challenger.
+[LANDING SEQ][Brycin] Excalibur is granted permission to land.
+[LANDING SEQ][Ace] Defiant has docked in 16 seconds.
+[LANDING SEQ][Ace] Defiant leaving its critical section.
+Mission 4 complete for shuttle Defiant.
+Atlantis is entering its critical landing section.
+Starting mission 5 for shuttle Defiant.
+[LANDING SEQ][Ace] Interacting with shuttle Atlantis.
+[LANDING SEQ][Brycin] Excalibur call the ball!
+[LANDING SEQ][Brycin] Excalibur permission is granted for final approach.
+Shuttle Defiant requires landing officer.
+Shuttle Challenger requires landing officer.
+[LANDING SEQ][Ace] Atlantis is granted permission to land.
+[LANDING SEQ][Brycin] Excalibur has docked in 11 seconds.
+[LANDING SEQ][Brycin] Excalibur leaving its critical section.
+Mission 2 complete for shuttle Excalibur.
+Defiant is entering its critical landing section.
+Starting mission 3 for shuttle Excalibur.
+[LANDING SEQ][Brycin] Interacting with shuttle Defiant.
+[LANDING SEQ][Brycin] Defiant is granted permission to land.
+[LANDING SEQ][Ace] Atlantis call the ball!
+[LANDING SEQ][Ace] Atlantis permission is granted for final approach.
+Shuttle Excalibur requires landing officer.
+[LANDING SEQ][Brycin] Defiant call the ball!
+[LANDING SEQ][Ace] Atlantis has docked in 13 seconds.
+[LANDING SEQ][Ace] Atlantis leaving its critical section.
+Excalibur is entering its critical landing section.
+Mission 1 complete for shuttle Atlantis.
+[LANDING SEQ][Ace] Interacting with shuttle Excalibur.
+Starting mission 2 for shuttle Atlantis.
+[LANDING SEQ][Ace] Excalibur is granted permission to land.
+[LANDING SEQ][Brycin] Defiant permission is granted for final approach.
+[LANDING SEQ][Ace] Excalibur call the ball!
+Shuttle Atlantis requires landing officer.
+[LANDING SEQ][Ace] Excalibur permission is granted for final approach.
+[LANDING SEQ][Brycin] Defiant has docked in 15 seconds.
+[LANDING SEQ][Brycin] Defiant leaving its critical section.
+Mission 5 complete for shuttle Defiant.
+Atlantis is entering its critical landing section.
+ALL MISSIONS COMPLETE: Defiant.
+[LANDING SEQ][Brycin] Interacting with shuttle Atlantis.
+[LANDING SEQ][Ace] Excalibur has docked in 9 seconds.
+[LANDING SEQ][Ace] Excalibur leaving its critical section.
+Mission 3 complete for shuttle Excalibur.
+Constellation is entering its critical landing section.
+Starting mission 4 for shuttle Excalibur.
+[LANDING SEQ][Ace] Interacting with shuttle Constellation.
+[LANDING SEQ][Ace] Constellation is granted permission to land.
+Shuttle Excalibur requires landing officer.
+[LANDING SEQ][Ace] Constellation call the ball!
+[LANDING SEQ][Ace] Constellation permission is granted for final approach.
+[LANDING SEQ][Brycin] Atlantis is granted permission to land.
+[LANDING SEQ][Ace] Constellation has docked in 3 seconds.
+[LANDING SEQ][Ace] Constellation leaving its critical section.
+Mission 3 complete for shuttle Constellation.
+Excalibur is entering its critical landing section.
+Starting mission 4 for shuttle Constellation.
+[LANDING SEQ][Ace] Interacting with shuttle Excalibur.
+[LANDING SEQ][Ace] Excalibur is granted permission to land.
+[LANDING SEQ][Brycin] Atlantis call the ball!
+[LANDING SEQ][Ace] Excalibur call the ball!
+[LANDING SEQ][Brycin] Atlantis permission is granted for final approach.
+[LANDING SEQ][Ace] Excalibur permission is granted for final approach.
+Shuttle Constellation requires landing officer.
+[LANDING SEQ][Brycin] Atlantis has docked in 15 seconds.
+[LANDING SEQ][Brycin] Atlantis leaving its critical section.
+Constellation is entering its critical landing section.
+Mission 2 complete for shuttle Atlantis.
+Starting mission 3 for shuttle Atlantis.
+[LANDING SEQ][Brycin] Interacting with shuttle Constellation.
+[LANDING SEQ][Brycin] Constellation is granted permission to land.
+[LANDING SEQ][Ace] Excalibur has docked in 14 seconds.
+[LANDING SEQ][Ace] Excalibur leaving its critical section.
+Mission 4 complete for shuttle Excalibur.
+Starting mission 5 for shuttle Excalibur.
+[LANDING SEQ][Brycin] Constellation call the ball!
+Shuttle Atlantis requires landing officer.
+Atlantis is entering its critical landing section.
+[LANDING SEQ][Ace] Interacting with shuttle Atlantis.
+[LANDING SEQ][Brycin] Constellation permission is granted for final approach.
+Shuttle Excalibur requires landing officer.
+[LANDING SEQ][Brycin] Constellation has docked in 7 seconds.
+[LANDING SEQ][Brycin] Constellation leaving its critical section.
+Mission 4 complete for shuttle Constellation.
+Excalibur is entering its critical landing section.
+Starting mission 5 for shuttle Constellation.
+[LANDING SEQ][Brycin] Interacting with shuttle Excalibur.
+[LANDING SEQ][Ace] Atlantis is granted permission to land.
+[LANDING SEQ][Ace] Atlantis call the ball!
+[LANDING SEQ][Ace] Atlantis permission is granted for final approach.
+[LANDING SEQ][Brycin] Excalibur is granted permission to land.
+Shuttle Constellation requires landing officer.
+[LANDING SEQ][Brycin] Excalibur call the ball!
+[LANDING SEQ][Brycin] Excalibur permission is granted for final approach.
+[LANDING SEQ][Ace] Atlantis has docked in 9 seconds.
+[LANDING SEQ][Ace] Atlantis leaving its critical section.
+Mission 3 complete for shuttle Atlantis.
+Constellation is entering its critical landing section.
+Starting mission 4 for shuttle Atlantis.
+[LANDING SEQ][Ace] Interacting with shuttle Constellation.
+Shuttle Atlantis requires landing officer.
+[LANDING SEQ][Ace] Constellation is granted permission to land.
+[LANDING SEQ][Brycin] Excalibur has docked in 11 seconds.
+[LANDING SEQ][Brycin] Excalibur leaving its critical section.
+Atlantis is entering its critical landing section.
+Mission 5 complete for shuttle Excalibur.
+[LANDING SEQ][Brycin] Interacting with shuttle Atlantis.
+ALL MISSIONS COMPLETE: Excalibur.
+[LANDING SEQ][Ace] Constellation call the ball!
+[LANDING SEQ][Ace] Constellation permission is granted for final approach.
+[LANDING SEQ][Brycin] Atlantis is granted permission to land.
+[LANDING SEQ][Ace] Constellation has docked in 10 seconds.
+[LANDING SEQ][Ace] Constellation leaving its critical section.
+Mission 5 complete for shuttle Constellation.
+ALL MISSIONS COMPLETE: Constellation.
+[LANDING SEQ][Brycin] Atlantis call the ball!
+[LANDING SEQ][Brycin] Atlantis permission is granted for final approach.
+[LANDING SEQ][Brycin] Atlantis has docked in 15 seconds.
+[LANDING SEQ][Brycin] Atlantis leaving its critical section.
+Mission 4 complete for shuttle Atlantis.
+Enterprise is entering its critical landing section.
+Starting mission 5 for shuttle Atlantis.
+[LANDING SEQ][Brycin] Interacting with shuttle Enterprise.
+[LANDING SEQ][Brycin] Enterprise is granted permission to land.
+Shuttle Atlantis requires landing officer.
+Atlantis is entering its critical landing section.
+[LANDING SEQ][Ace] Interacting with shuttle Atlantis.
+[LANDING SEQ][Brycin] Enterprise call the ball!
+[LANDING SEQ][Brycin] Enterprise permission is granted for final approach.
+[LANDING SEQ][Ace] Atlantis is granted permission to land.
+[LANDING SEQ][Brycin] Enterprise has docked in 9 seconds.
+[LANDING SEQ][Brycin] Enterprise leaving its critical section.
+Mission 1 complete for shuttle Enterprise.
+Starting mission 2 for shuttle Enterprise.
+Exeter is entering its critical landing section.
+[LANDING SEQ][Brycin] Interacting with shuttle Exeter.
+[LANDING SEQ][Brycin] Exeter is granted permission to land.
+Shuttle Enterprise requires landing officer.
+[LANDING SEQ][Ace] Atlantis call the ball!
+[LANDING SEQ][Ace] Atlantis permission is granted for final approach.
+[LANDING SEQ][Brycin] Exeter call the ball!
+[LANDING SEQ][Ace] Atlantis has docked in 11 seconds.
+[LANDING SEQ][Ace] Atlantis leaving its critical section.
+Mission 5 complete for shuttle Atlantis.
+Enterprise is entering its critical landing section.
+ALL MISSIONS COMPLETE: Atlantis.
+[LANDING SEQ][Ace] Interacting with shuttle Enterprise.
+[LANDING SEQ][Brycin] Exeter permission is granted for final approach.
+[LANDING SEQ][Ace] Enterprise is granted permission to land.
+[LANDING SEQ][Ace] Enterprise call the ball!
+[LANDING SEQ][Ace] Enterprise permission is granted for final approach.
+[LANDING SEQ][Brycin] Exeter has docked in 9 seconds.
+[LANDING SEQ][Brycin] Exeter leaving its critical section.
+Mission 1 complete for shuttle Exeter.
+Endeavour is entering its critical landing section.
+Starting mission 2 for shuttle Exeter.
+[LANDING SEQ][Brycin] Interacting with shuttle Endeavour.
+[LANDING SEQ][Brycin] Endeavour is granted permission to land.
+[LANDING SEQ][Brycin] Endeavour call the ball!
+[LANDING SEQ][Brycin] Endeavour permission is granted for final approach.
+Shuttle Exeter requires landing officer.
+[LANDING SEQ][Brycin] Endeavour has docked in 5 seconds.
+[LANDING SEQ][Brycin] Endeavour leaving its critical section.
+Mission 1 complete for shuttle Endeavour.
+Exeter is entering its critical landing section.
+[LANDING SEQ][Brycin] Interacting with shuttle Exeter.
+Starting mission 2 for shuttle Endeavour.
+Shuttle Endeavour requires landing officer.
+[LANDING SEQ][Brycin] Exeter is granted permission to land.
+[LANDING SEQ][Ace] Enterprise has docked in 13 seconds.
+[LANDING SEQ][Ace] Enterprise leaving its critical section.
+Mission 2 complete for shuttle Enterprise.
+Endeavour is entering its critical landing section.
+Starting mission 3 for shuttle Enterprise.
+[LANDING SEQ][Ace] Interacting with shuttle Endeavour.
+[LANDING SEQ][Brycin] Exeter call the ball!
+[LANDING SEQ][Brycin] Exeter permission is granted for final approach.
+[LANDING SEQ][Brycin] Exeter has docked in 6 seconds.
+[LANDING SEQ][Brycin] Exeter leaving its critical section.
+Mission 2 complete for shuttle Exeter.
+Challenger is entering its critical landing section.
+Starting mission 3 for shuttle Exeter.
+[LANDING SEQ][Brycin] Interacting with shuttle Challenger.
+[LANDING SEQ][Ace] Endeavour is granted permission to land.
+Shuttle Exeter requires landing officer.
+Shuttle Enterprise requires landing officer.
+[LANDING SEQ][Brycin] Challenger is granted permission to land.
+[LANDING SEQ][Ace] Endeavour call the ball!
+[LANDING SEQ][Ace] Endeavour permission is granted for final approach.
+[LANDING SEQ][Brycin] Challenger call the ball!
+[LANDING SEQ][Ace] Endeavour has docked in 13 seconds.
+[LANDING SEQ][Ace] Endeavour leaving its critical section.
+Enterprise is entering its critical landing section.
+Mission 2 complete for shuttle Endeavour.
+[LANDING SEQ][Ace] Interacting with shuttle Enterprise.
+Starting mission 3 for shuttle Endeavour.
+[LANDING SEQ][Brycin] Challenger permission is granted for final approach.
+Shuttle Endeavour requires landing officer.
+[LANDING SEQ][Ace] Enterprise is granted permission to land.
+[LANDING SEQ][Ace] Enterprise call the ball!
+[LANDING SEQ][Ace] Enterprise permission is granted for final approach.
+[LANDING SEQ][Ace] Enterprise has docked in 7 seconds.
+[LANDING SEQ][Ace] Enterprise leaving its critical section.
+Endeavour is entering its critical landing section.
+Mission 3 complete for shuttle Enterprise.
+[LANDING SEQ][Ace] Interacting with shuttle Endeavour.
+Starting mission 4 for shuttle Enterprise.
+[LANDING SEQ][Brycin] Challenger has docked in 17 seconds.
+[LANDING SEQ][Brycin] Challenger leaving its critical section.
+Mission 2 complete for shuttle Challenger.
+Columbia is entering its critical landing section.
+Starting mission 3 for shuttle Challenger.
+[LANDING SEQ][Brycin] Interacting with shuttle Columbia.
+[LANDING SEQ][Brycin] Columbia is granted permission to land.
+[LANDING SEQ][Ace] Endeavour is granted permission to land.
+Shuttle Enterprise requires landing officer.
+[LANDING SEQ][Brycin] Columbia call the ball!
+[LANDING SEQ][Brycin] Columbia permission is granted for final approach.
+[LANDING SEQ][Ace] Endeavour call the ball!
+[LANDING SEQ][Ace] Endeavour permission is granted for final approach.
+Shuttle Challenger requires landing officer.
+[LANDING SEQ][Brycin] Columbia has docked in 11 seconds.
+[LANDING SEQ][Brycin] Columbia leaving its critical section.
+Enterprise is entering its critical landing section.
+Mission 3 complete for shuttle Columbia.
+[LANDING SEQ][Brycin] Interacting with shuttle Enterprise.
+Starting mission 4 for shuttle Columbia.
+[LANDING SEQ][Brycin] Enterprise is granted permission to land.
+[LANDING SEQ][Ace] Endeavour has docked in 18 seconds.
+[LANDING SEQ][Ace] Endeavour leaving its critical section.
+Mission 3 complete for shuttle Endeavour.
+Exeter is entering its critical landing section.
+Starting mission 4 for shuttle Endeavour.
+[LANDING SEQ][Ace] Interacting with shuttle Exeter.
+Shuttle Columbia requires landing officer.
+[LANDING SEQ][Brycin] Enterprise call the ball!
+[LANDING SEQ][Brycin] Enterprise permission is granted for final approach.
+[LANDING SEQ][Ace] Exeter is granted permission to land.
+Shuttle Endeavour requires landing officer.
+[LANDING SEQ][Ace] Exeter call the ball!
+[LANDING SEQ][Ace] Exeter permission is granted for final approach.
+[LANDING SEQ][Brycin] Enterprise has docked in 16 seconds.
+[LANDING SEQ][Brycin] Enterprise leaving its critical section.
+Endeavour is entering its critical landing section.
+Mission 4 complete for shuttle Enterprise.
+[LANDING SEQ][Brycin] Interacting with shuttle Endeavour.
+Starting mission 5 for shuttle Enterprise.
+[LANDING SEQ][Ace] Exeter has docked in 10 seconds.
+[LANDING SEQ][Ace] Exeter leaving its critical section.
+Mission 3 complete for shuttle Exeter.
+Columbia is entering its critical landing section.
+Starting mission 4 for shuttle Exeter.
+[LANDING SEQ][Ace] Interacting with shuttle Columbia.
+[LANDING SEQ][Brycin] Endeavour is granted permission to land.
+[LANDING SEQ][Ace] Columbia is granted permission to land.
+Shuttle Exeter requires landing officer.
+[LANDING SEQ][Ace] Columbia call the ball!
+Shuttle Enterprise requires landing officer.
+[LANDING SEQ][Brycin] Endeavour call the ball!
+[LANDING SEQ][Brycin] Endeavour permission is granted for final approach.
+[LANDING SEQ][Ace] Columbia permission is granted for final approach.
+[LANDING SEQ][Ace] Columbia has docked in 6 seconds.
+[LANDING SEQ][Ace] Columbia leaving its critical section.
+Mission 4 complete for shuttle Columbia.
+Exeter is entering its critical landing section.
+Starting mission 5 for shuttle Columbia.
+[LANDING SEQ][Ace] Interacting with shuttle Exeter.
+[LANDING SEQ][Ace] Exeter is granted permission to land.
+[LANDING SEQ][Brycin] Endeavour has docked in 7 seconds.
+[LANDING SEQ][Brycin] Endeavour leaving its critical section.
+Mission 4 complete for shuttle Endeavour.
+Constitution is entering its critical landing section.
+Starting mission 5 for shuttle Endeavour.
+[LANDING SEQ][Brycin] Interacting with shuttle Constitution.
+[LANDING SEQ][Ace] Exeter call the ball!
+[LANDING SEQ][Ace] Exeter permission is granted for final approach.
+Shuttle Endeavour requires landing officer.
+[LANDING SEQ][Brycin] Constitution is granted permission to land.
+Shuttle Columbia requires landing officer.
+[LANDING SEQ][Brycin] Constitution call the ball!
+[LANDING SEQ][Ace] Exeter has docked in 11 seconds.
+[LANDING SEQ][Ace] Exeter leaving its critical section.
+Mission 4 complete for shuttle Exeter.
+Endeavour is entering its critical landing section.
+Starting mission 5 for shuttle Exeter.
+[LANDING SEQ][Ace] Interacting with shuttle Endeavour.
+[LANDING SEQ][Brycin] Constitution permission is granted for final approach.
+[LANDING SEQ][Ace] Endeavour is granted permission to land.
+[LANDING SEQ][Ace] Endeavour call the ball!
+Shuttle Exeter requires landing officer.
+[LANDING SEQ][Ace] Endeavour permission is granted for final approach.
+[LANDING SEQ][Brycin] Constitution has docked in 19 seconds.
+[LANDING SEQ][Brycin] Constitution leaving its critical section.
+Mission 3 complete for shuttle Constitution.
+Challenger is entering its critical landing section.
+Starting mission 4 for shuttle Constitution.
+[LANDING SEQ][Brycin] Interacting with shuttle Challenger.
+[LANDING SEQ][Ace] Endeavour has docked in 9 seconds.
+[LANDING SEQ][Ace] Endeavour leaving its critical section.
+Mission 5 complete for shuttle Endeavour.
+ALL MISSIONS COMPLETE: Endeavour.
+Enterprise is entering its critical landing section.
+[LANDING SEQ][Ace] Interacting with shuttle Enterprise.
+[LANDING SEQ][Brycin] Challenger is granted permission to land.
+Shuttle Constitution requires landing officer.
+[LANDING SEQ][Brycin] Challenger call the ball!
+[LANDING SEQ][Ace] Enterprise is granted permission to land.
+[LANDING SEQ][Brycin] Challenger permission is granted for final approach.
+[LANDING SEQ][Ace] Enterprise call the ball!
+[LANDING SEQ][Ace] Enterprise permission is granted for final approach.
+[LANDING SEQ][Brycin] Challenger has docked in 15 seconds.
+[LANDING SEQ][Brycin] Challenger leaving its critical section.
+Mission 3 complete for shuttle Challenger.
+Constitution is entering its critical landing section.
+Starting mission 4 for shuttle Challenger.
+[LANDING SEQ][Brycin] Interacting with shuttle Constitution.
+[LANDING SEQ][Brycin] Constitution is granted permission to land.
+[LANDING SEQ][Ace] Enterprise has docked in 15 seconds.
+[LANDING SEQ][Ace] Enterprise leaving its critical section.
+Columbia is entering its critical landing section.
+[LANDING SEQ][Ace] Interacting with shuttle Columbia.
+Mission 5 complete for shuttle Enterprise.
+ALL MISSIONS COMPLETE: Enterprise.
+[LANDING SEQ][Ace] Columbia is granted permission to land.
+[LANDING SEQ][Brycin] Constitution call the ball!
+[LANDING SEQ][Ace] Columbia call the ball!
+Shuttle Challenger requires landing officer.
+[LANDING SEQ][Ace] Columbia permission is granted for final approach.
+[LANDING SEQ][Brycin] Constitution permission is granted for final approach.
+[LANDING SEQ][Ace] Columbia has docked in 3 seconds.
+[LANDING SEQ][Ace] Columbia leaving its critical section.
+Challenger is entering its critical landing section.
+Mission 5 complete for shuttle Columbia.
+[LANDING SEQ][Ace] Interacting with shuttle Challenger.
+ALL MISSIONS COMPLETE: Columbia.
+[LANDING SEQ][Brycin] Constitution has docked in 9 seconds.
+[LANDING SEQ][Brycin] Constitution leaving its critical section.
+Mission 4 complete for shuttle Constitution.
+Exeter is entering its critical landing section.
+Starting mission 5 for shuttle Constitution.
+[LANDING SEQ][Brycin] Interacting with shuttle Exeter.
+[LANDING SEQ][Ace] Challenger is granted permission to land.
+[LANDING SEQ][Brycin] Exeter is granted permission to land.
+[LANDING SEQ][Brycin] Exeter call the ball!
+Shuttle Constitution requires landing officer.
+[LANDING SEQ][Ace] Challenger call the ball!
+[LANDING SEQ][Brycin] Exeter permission is granted for final approach.
+[LANDING SEQ][Ace] Challenger permission is granted for final approach.
+[LANDING SEQ][Brycin] Exeter has docked in 13 seconds.
+[LANDING SEQ][Brycin] Exeter leaving its critical section.
+Constitution is entering its critical landing section.
+Mission 5 complete for shuttle Exeter.
+ALL MISSIONS COMPLETE: Exeter.
+[LANDING SEQ][Brycin] Interacting with shuttle Constitution.
+[LANDING SEQ][Ace] Challenger has docked in 20 seconds.
+[LANDING SEQ][Ace] Challenger leaving its critical section.
+Mission 4 complete for shuttle Challenger.
+Starting mission 5 for shuttle Challenger.
+[LANDING SEQ][Brycin] Constitution is granted permission to land.
+Shuttle Challenger requires landing officer.
+Challenger is entering its critical landing section.
+[LANDING SEQ][Ace] Interacting with shuttle Challenger.
+[LANDING SEQ][Brycin] Constitution call the ball!
+[LANDING SEQ][Brycin] Constitution permission is granted for final approach.
+[LANDING SEQ][Ace] Challenger is granted permission to land.
+[LANDING SEQ][Ace] Challenger call the ball!
+[LANDING SEQ][Ace] Challenger permission is granted for final approach.
+[LANDING SEQ][Brycin] Constitution has docked in 10 seconds.
+[LANDING SEQ][Brycin] Constitution leaving its critical section.
+Mission 5 complete for shuttle Constitution.
+ALL MISSIONS COMPLETE: Constitution.
+[LANDING SEQ][Ace] Challenger has docked in 10 seconds.
+[LANDING SEQ][Ace] Challenger leaving its critical section.
+Mission 5 complete for shuttle Challenger.
+ALL MISSIONS COMPLETE: Challenger.
+BUILD SUCCESSFUL (total time: 5 minutes 10 seconds)

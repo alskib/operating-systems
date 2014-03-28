@@ -1,0 +1,186 @@
+V "GNAT Lib v2013"
+M P W=b
+A -gnatA
+P ZX
+
+RN
+RV NO_CALENDAR
+RV NO_DELAY
+RV NO_ENUMERATION_MAPS
+RV NO_EXCEPTION_HANDLERS
+RV NO_EXCEPTIONS
+RV NO_FIXED_POINT
+RV NO_FLOATING_POINT
+RV NO_IO
+RV NO_IMPLICIT_CONDITIONALS
+RV NO_IMPLICIT_LOOPS
+RV NO_RECURSION
+RV NO_RELATIVE_DELAY
+RV NO_STANDARD_STORAGE_POOLS
+RV NO_TASK_HIERARCHY
+RV NO_TASKING
+RV NO_DEFAULT_INITIALIZATION
+RV NO_IMPLEMENTATION_ATTRIBUTES
+RV NO_IMPLEMENTATION_PRAGMAS
+RV SPARK
+RV MAX_TASKS=1+
+
+U lab1ver1%b		lab1ver1.adb		80b8277a NE OO SU
+W ada%s			ada.ads			ada.ali
+W ada.calendar%s	a-calend.adb		a-calend.ali
+W ada.calendar.delays%s	a-caldel.adb		a-caldel.ali
+W ada.exceptions%s	a-except.adb		a-except.ali
+W ada.numerics%s	a-numeri.ads		a-numeri.ali
+W ada.numerics.float_random%s  a-nuflra.adb	a-nuflra.ali
+W ada.real_time%s	a-reatim.adb		a-reatim.ali
+W ada.tags%s		a-tags.adb		a-tags.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+Z ada.text_io.enumeration_aux%s  a-tienau.adb	a-tienau.ali
+W ada.text_io.enumeration_io%s
+W ada.text_io.fixed_io%s
+Z ada.text_io.float_aux%s  a-tiflau.adb		a-tiflau.ali
+Z ada.text_io.generic_aux%s  a-tigeau.adb	a-tigeau.ali
+Z ada.text_io.integer_aux%s  a-tiinau.adb	a-tiinau.ali
+W ada.text_io.integer_io%s
+W interfaces%s		interfac.ads		interfac.ali
+W system%s		system.ads		system.ali
+Z system.arith_64%s	s-arit64.adb		s-arit64.ali
+W system.exn_lli%s	s-exnlli.adb		s-exnlli.ali
+W system.img_enum_new%s	s-imenne.adb		s-imenne.ali
+Z system.img_real%s	s-imgrea.adb		s-imgrea.ali
+W system.parameters%s	s-parame.adb		s-parame.ali
+W system.soft_links%s	s-soflin.adb		s-soflin.ali
+W system.task_info%s	s-tasinf.adb		s-tasinf.ali
+W system.tasking%s	s-taskin.adb		s-taskin.ali
+W system.tasking.stages%s  s-tassta.adb		s-tassta.ali
+W system.val_enum%s	s-valenu.adb		s-valenu.ali
+
+D ada.ads		20130417131022 3ffc8e18
+D a-calend.ads		20130417131018 d86d6c8c
+D a-caldel.ads		20130417131018 9f20b83d
+D a-except.ads		20130417131018 10fcae55
+D a-finali.ads		20130417131020 52ecdc1b
+D a-ioexce.ads		20130417131020 8b9de6cd
+D a-numeri.ads		20130417131020 bb51c45a
+D a-nuflra.ads		20130417131020 49c50e0b
+D a-reatim.ads		20130417131020 63f07669
+D a-stream.ads		20130417131020 2ca4ee37
+D a-tags.ads		20130417131022 6c0509d0
+D a-textio.ads		20130417131022 386df5d4
+D a-tienau.ads		20130417131022 6a9c157b
+D a-tienio.ads		20130417131022 fc618ae6
+D a-tienio.adb		20130417131022 c9e6b5af
+D a-tifiio.ads		20130417131022 6ed4936c
+D a-tifiio.adb		20130417131022 60891011
+D a-tiflau.ads		20130417131022 c0393f21
+D a-tigeau.ads		20130417131022 9eaed207
+D a-tiinau.ads		20130417131022 8114c8e4
+D a-tiinio.ads		20130417131022 aa04e5d6
+D a-tiinio.adb		20130417131022 df9cd7af
+D a-unccon.ads		20130417131022 f9eb8f06
+D interfac.ads		20130417131026 cb4a8015
+D i-c.ads		20130417131026 5421119b
+D i-cstrin.ads		20130417131026 341d0ddf
+D i-cstrea.ads		20130417131026 8128536b
+D lab1ver1.adb		20131206173816 297db029
+D system.ads		20130417131036 5fc8ae56
+D s-atacco.ads		20130417131028 4c36d12f
+D s-arit64.ads		20130417131028 404da5f2
+D s-crtl.ads		20130417131028 dfcfca61
+D s-exctab.ads		20130417131028 66e51330
+D s-exnlli.ads		20130417131028 81977baf
+D s-ficobl.ads		20130417131028 55a71d43
+D s-finmas.ads		20130417131028 b95bb341
+D s-finroo.ads		20130417131028 4ff27390
+D s-imenne.ads		20130417131030 8707cbf0
+D s-imgrea.ads		20130417131030 c7a851e2
+D s-multip.ads		20130417131030 38ac9f73
+D s-osinte.ads		20130417131030 ecf1fbfd
+D s-parame.ads		20130417131032 b6e20cc0
+D s-pooglo.ads		20130417131032 542f33d0
+D s-rannum.ads		20130417131032 5eb33f0a
+D s-soflin.ads		20130417131032 24c8153c
+D s-stache.ads		20130417131032 596fc1b4
+D s-stausa.ads		20130417131032 017a0a05
+D s-stalib.ads		20130417131032 f78bcf95
+D s-stoele.ads		20130417131032 facd7d98
+D s-stoele.adb		20130417131032 afc5dc80
+D s-stopoo.ads		20130417131032 7b8fbeee
+D s-tasinf.ads		20130417131032 859198ad
+D s-taspri.ads		20130417131032 196697f7
+D s-taprop.ads		20130417131032 1dd2e1b6
+D s-taskin.ads		20130417131032 59e95256
+D s-tassta.ads		20130417131032 70812003
+D s-traent.ads		20130417131032 5221ee41
+D s-unstyp.ads		20130417131034 6ae15c76
+D s-valenu.ads		20130417131034 bb1a4295
+D s-wchcon.ads		20130417131034 bfeb2e3d
+D s-win32.ads		20130417131034 e5a79fe6
+X 1 ada.ads
+16K9*Ada 19e8 28|1r6 1r19 1r33 2r5 2r18 2r32 5r31 6r29 17r33
+X 2 a-calend.ads
+36K13*Calendar 375e17 28|1w23 2r22
+38I9*Time
+50O12*Day_Duration{duration}
+52V13*Clock{38I9} 28|62s44 67s37 96s44 101s37
+61V13*Seconds{50O12} 28|62s36 67s29 96s36 101s29
+X 7 a-numeri.ads
+16K13*Numerics 32e17 28|1r37 2r36
+X 8 a-nuflra.ads
+41K22*Float_Random 72e30 28|1w46 2r45
+45R9*Generator 28|8r13
+47F12*Uniformly_Distributed{float}
+49V13*Random{47F12}<44|62p13> 28|29s31 33s31 38s31 51s25 65s25 85s25 99s25
+X 12 a-textio.ads
+49K13*Text_IO 471e16 28|1w10 2r9 5r35 6r33 17r37
+166U14*New_Line 28|31s70 35s54 37s82 61s67 69s29 71s10 95s65 103s29 105s10
+. 113s56
+242U14*Put 28|31s30 35s30 37s30 61s10 68s10 69s10 70s10 95s10 102s10 103s10
+. 104s10 113s4
+X 14 a-tienio.ads
+46k21*Enumeration_IO 75e31 28|17r45
+60U14 Put 28|31s16[17] 35s16[17] 37s16[17]
+X 16 a-tifiio.ads
+45k21*Fixed_IO 88e25 28|5r43
+67U14 Put 28|68s46[5] 102s44[5]
+X 21 a-tiinio.ads
+45k21*Integer_IO 84e27 28|6r41
+X 24 interfac.ads
+52I9*Integer_64<long_long_integer>
+X 28 lab1ver1.adb
+3U11*Lab1Ver1 3b11 115l5 115t13
+5K12 Duration_IO[16|45] 5r68
+6K12 integerIO[21|45] 6r66
+8r4 randNum{8|45R9} 29r38 33r38 38r38 51r32 65r32 85r32 99r32
+14E9 RequestType 14e71 25r49
+14n25 Permission_To_Land{14E9} 28r17 63r33 97r33
+14n45 Call_The_Ball{14E9} 32r17 64r33 98r33
+14n60 Touch_Down{14E9} 36r17 66r33 100r33
+15E9 ShuttleNameType 15e71 17r60 25r74
+15n29 Atlantis{15E9} 63r53 64r48 66r45
+15n39 Challenger{15E9}
+15n51 Ranger{15E9} 97r53 98r48 100r45
+15n59 MeanMachine{15E9}
+17K12 ShuttleNameIO[14|46] 18r8
+20i4 C1{integer} 50m10 54m16 58m16 73m10 86r16
+21i4 C2{integer} 52r16 84m10 88m16 92m16 107m10
+22i4 Turn{integer} 53r16 55r22 74m10 87r16 89r22 108m10
+25U14 LandingControlOfficer 25b14 25>37 25>62 42l9 42t30 63s10 64s10 66s10
+. 97s10 98s10 100s10
+25e37 Request{14E9} 27r12
+25e62 Shuttle{15E9} 31r20 35r20 37r20
+44t9 ShuttleAtlantis 45b14 76l8 76t23
+46o7 initiateLandingSequence{duration} 62m10 68r69
+47o7 landingComplete{duration} 67m10 68r51
+49i11 I{integer}
+78t9 ShuttleRanger 79b14 110l8 110t21
+80o7 initiateLandingSequence{duration} 96m10 102r67
+81o7 landingComplete{duration} 101m10 102r49
+83i11 I{integer}
+X 31 s-arit64.ads
+44I12*Int64{24|52I9}
+54V13*Multiply_With_Ovflo_Check{44I12} 55i<c,__gnat_mulv64>22
+X 47 s-stausa.ads
+203U14*Initialize 204i<c,__gnat_stack_usage_initialize>22
+268U14*Output_Results 272i<c,__gnat_stack_usage_output_results>22
+

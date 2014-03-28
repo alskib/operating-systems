@@ -1,0 +1,161 @@
+Lab1Ver1 Shuttle operations are authorized.
+Atlantis entering its critical landing section.
+
+ATLANTIS is granted permission to land.
+ATLANTIS call the ball!
+ATLANTIS, permission is granted for final approach.
+Shuttle Atlantis docked in           6.821474286 seconds.
+Atlantis leavings its critical section.  Obtain new crew and start next mission.
+
+Ranger entering its critical landing section.
+
+RANGER is granted permission to land.
+RANGER call the ball!
+RANGER, permission is granted for final approach.
+Shuttle Ranger docked in           9.874301595 seconds.
+Ranger leavings its critical section.  Obtain new crew and start next mission.
+
+Atlantis entering its critical landing section.
+
+ATLANTIS is granted permission to land.
+ATLANTIS call the ball!
+ATLANTIS, permission is granted for final approach.
+Shuttle Atlantis docked in          18.452677571 seconds.
+Atlantis leavings its critical section.  Obtain new crew and start next mission.
+
+Ranger entering its critical landing section.
+
+RANGER is granted permission to land.
+RANGER call the ball!
+RANGER, permission is granted for final approach.
+Shuttle Ranger docked in           9.127698425 seconds.
+Ranger leavings its critical section.  Obtain new crew and start next mission.
+
+Atlantis entering its critical landing section.
+
+ATLANTIS is granted permission to land.
+ATLANTIS call the ball!
+ATLANTIS, permission is granted for final approach.
+Shuttle Atlantis docked in          14.204571899 seconds.
+Atlantis leavings its critical section.  Obtain new crew and start next mission.
+
+Ranger entering its critical landing section.
+
+RANGER is granted permission to land.
+RANGER call the ball!
+RANGER, permission is granted for final approach.
+Shuttle Ranger docked in           8.643201061 seconds.
+Ranger leavings its critical section.  Obtain new crew and start next mission.
+
+Atlantis entering its critical landing section.
+
+ATLANTIS is granted permission to land.
+ATLANTIS call the ball!
+ATLANTIS, permission is granted for final approach.
+Shuttle Atlantis docked in          17.410679506 seconds.
+Atlantis leavings its critical section.  Obtain new crew and start next mission.
+
+Ranger entering its critical landing section.
+
+RANGER is granted permission to land.
+RANGER call the ball!
+RANGER, permission is granted for final approach.
+Shuttle Ranger docked in           9.918797636 seconds.
+Ranger leavings its critical section.  Obtain new crew and start next mission.
+
+Atlantis entering its critical landing section.
+
+ATLANTIS is granted permission to land.
+ATLANTIS call the ball!
+ATLANTIS, permission is granted for final approach.
+Shuttle Atlantis docked in          11.185682307 seconds.
+Atlantis leavings its critical section.  Obtain new crew and start next mission.
+
+Ranger entering its critical landing section.
+
+RANGER is granted permission to land.
+RANGER call the ball!
+RANGER, permission is granted for final approach.
+Shuttle Ranger docked in          15.091447050 seconds.
+Ranger leavings its critical section.  Obtain new crew and start next mission.
+
+Atlantis entering its critical landing section.
+
+ATLANTIS is granted permission to land.
+ATLANTIS call the ball!
+ATLANTIS, permission is granted for final approach.
+Shuttle Atlantis docked in          17.244471348 seconds.
+Atlantis leavings its critical section.  Obtain new crew and start next mission.
+
+Ranger entering its critical landing section.
+
+RANGER is granted permission to land.
+RANGER call the ball!
+RANGER, permission is granted for final approach.
+Shuttle Ranger docked in           8.884725335 seconds.
+Ranger leavings its critical section.  Obtain new crew and start next mission.
+
+Atlantis entering its critical landing section.
+
+ATLANTIS is granted permission to land.
+ATLANTIS call the ball!
+ATLANTIS, permission is granted for final approach.
+Shuttle Atlantis docked in           4.998643053 seconds.
+Atlantis leavings its critical section.  Obtain new crew and start next mission.
+
+Ranger entering its critical landing section.
+
+RANGER is granted permission to land.
+RANGER call the ball!
+RANGER, permission is granted for final approach.
+Shuttle Ranger docked in          17.726967814 seconds.
+Ranger leavings its critical section.  Obtain new crew and start next mission.
+
+Atlantis entering its critical landing section.
+
+ATLANTIS is granted permission to land.
+ATLANTIS call the ball!
+ATLANTIS, permission is granted for final approach.
+Shuttle Atlantis docked in           6.442103742 seconds.
+Atlantis leavings its critical section.  Obtain new crew and start next mission.
+
+Ranger entering its critical landing section.
+
+RANGER is granted permission to land.
+RANGER call the ball!
+RANGER, permission is granted for final approach.
+Shuttle Ranger docked in          12.392871552 seconds.
+Ranger leavings its critical section.  Obtain new crew and start next mission.
+
+Atlantis entering its critical landing section.
+
+ATLANTIS is granted permission to land.
+ATLANTIS call the ball!
+ATLANTIS, permission is granted for final approach.
+Shuttle Atlantis docked in          12.872353361 seconds.
+Atlantis leavings its critical section.  Obtain new crew and start next mission.
+
+Ranger entering its critical landing section.
+
+RANGER is granted permission to land.
+RANGER call the ball!
+RANGER, permission is granted for final approach.
+Shuttle Ranger docked in           6.914606840 seconds.
+Ranger leavings its critical section.  Obtain new crew and start next mission.
+
+Atlantis entering its critical landing section.
+
+ATLANTIS is granted permission to land.
+ATLANTIS call the ball!
+ATLANTIS, permission is granted for final approach.
+Shuttle Atlantis docked in          15.611908190 seconds.
+Atlantis leavings its critical section.  Obtain new crew and start next mission.
+
+Ranger entering its critical landing section.
+
+RANGER is granted permission to land.
+RANGER call the ball!
+RANGER, permission is granted for final approach.
+Shuttle Ranger docked in          10.087613485 seconds.
+Ranger leavings its critical section.  Obtain new crew and start next mission.
+

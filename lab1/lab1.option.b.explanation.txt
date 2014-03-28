@@ -1,0 +1,1 @@
+This solution would not work in a distributed system because there is no shared main memory, as the flag and turns variables used to coordinate memory interlock exist in a single space of memory, and would not be exist in the memories of each distributed system as the memory is, well, distributed.

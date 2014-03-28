@@ -1,0 +1,23 @@
+run:
+Initial time: 1386218894640
+Correction: 0
+End time: 1386218904640
+
+Initial time: 1386218904640
+Correction: 0
+End time: 1386218914641
+
+Initial time: 1386218914641
+Correction: 1
+End time: 1386218924640
+
+Initial time: 1386218924640
+Correction: 0
+End time: 1386218934641
+
+Initial time: 1386218934641
+Correction: 1
+End time: 1386218944641
+
+Time elapsed: 50001 milliseconds
+BUILD SUCCESSFUL (total time: 50 seconds)
