@@ -1,0 +1,1 @@
+Operating System labs. There was a heavy emphasis on concurrency and mutual exclusion (as expected, I suppose). The labs are kind of a mess because I first attempted the majority of the work in Ada, but had more success in Java later on.
